@@ -3,16 +3,8 @@ title: Welcome
 layout: default
 ---
 
-# Potion
+# Tachyons Components
 
-## A Jekyll starter theme
-
-Comes with basic folder structure, kramdown and sass - but assumes nothing else!
-
-### Create a beast of a website!
-
-It's your potion, brew it your way.
-
-If you've got a 'Jekyll' red background - your sass is working fine.
+## HTML Components for Tachyons CSS
 
 Made by [Jnkly](http://johnkelly.design/)

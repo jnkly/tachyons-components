@@ -1,7 +1,7 @@
 ---
-title: Your Site Title
+title: Tachyons Components
 timezone: Europe/London
-description: A Jekyll starter theme with kramdown and sass
+description: HTML components for Tachyons CSS
 
 # Build settings
 markdown: kramdown
